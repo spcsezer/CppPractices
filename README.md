@@ -1,2 +1,2 @@
 # Cplusplus-beginner-practices
-I post my beginner friendly c++ codes during my learning c++ journey
+I post my c++ codes and algorithms during my learning c++ journey
